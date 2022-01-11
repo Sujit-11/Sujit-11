@@ -43,7 +43,7 @@ jobs:
       - name: Commit files
         run: |
           git config --local user.email "suzeetshrestha21@gmail.com"
-          git config --local user.name "sujit"
+          git config --local user.name "Sujit-11"
           git status
           git add .
           git commit -m "Created snake gif and svg"
